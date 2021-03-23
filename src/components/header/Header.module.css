@@ -1,0 +1,17 @@
+.list {
+  display: flex;
+  list-style-type: none;
+}
+
+.item {
+  margin-right: 15px;
+}
+
+.linkItem {
+  color: black;
+  font-weight: 500;
+}
+.active {
+  color: brown;
+  font-weight: 700;
+}
